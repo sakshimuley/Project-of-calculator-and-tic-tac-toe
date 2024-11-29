@@ -1,1 +1,1 @@
-# Project-of-calculator-and-tic-tac-toe
+# Project-of-calculator
